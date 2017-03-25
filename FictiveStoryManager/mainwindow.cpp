@@ -13,3 +13,8 @@ MainWindow::~MainWindow()
     delete(ui);
     ui = NULL;
 }
+
+void MainWindow::Initialize(void)
+{
+
+}
